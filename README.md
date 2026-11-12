@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Status Pills -->
-[![Role](https://img.shields.io/badge/AI_Engineering-7BF1A8?style=flat-square&logo=github&logoColor=orange)](https://github.com/raman7072)
-[![Role](https://img.shields.io/badge/Data_Engineering-FFB86A?style=flat-square&logo=github&logoColor=green)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/AI_Engineering-7BF1A8?style=flat-square&logo=github&logoColor=black)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/Data_Engineering-FFB86A?style=flat-square&logo=github&logoColor=black)](https://github.com/raman7072)
 
 </div>
 
@@ -24,8 +24,8 @@
 class Raman:
     def __init__(self):
         self.username    = "raman7072"
-        self.roles       = ["Agentic AI Engineer", "Data Engineer", "Full Stack Systems Builder"]
-        self.focus       = ["LangGraph", "LangChain", "PySpark", "Databricks", "Cloud Pipelines"]
+        self.roles       = ["AI Engineer", "Data Engineer", "Systems Architect"]
+        self.focus       = ["Agentic AI Systems", "LLM Orchestration", "Big Data Pipelines"]
         self.architecture = {
             "ai_agents":      ["LangGraph", "LangChain", "LangSmith", "Groq", "Hugging Face"],
             "data_pipelines": ["PySpark", "Databricks", "ETL Pipelines", "ADF", "ADLS Gen2", "ClickHouse"],
@@ -235,19 +235,6 @@ print(me.execute())
 
 ---
 
-## 🕹️ Dev Arcade: Play in Browser
-
-<div align="center">
-
-Take a quick coding break! Launch classic retro games right in your browser:
-
-| 🐍 Classic Snake | 🎮 2048 | 👾 Space Invaders | 🦖 Chrome Dino |
-| :---: | :---: | :---: | :---: |
-| [![Play Snake](https://img.shields.io/badge/PLAY-Snake-22c55e?style=for-the-badge&logo=retroarch&logoColor=white)](https://playsnake.org/) | [![Play 2048](https://img.shields.io/badge/PLAY-2048-f59e0b?style=for-the-badge&logo=googleplay&logoColor=white)](https://play2048.co/) | [![Play Space Invaders](https://img.shields.io/badge/PLAY-Invaders-ec4899?style=for-the-badge&logo=gamepad&logoColor=white)](https://freeinvaders.org/) | [![Play Dino](https://img.shields.io/badge/PLAY-Dino_Run-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromedino.com/) |
-
-</div>
-
----
 
 ## 📊 Analytics & Activity
 
@@ -270,15 +257,5 @@ Take a quick coding break! Launch classic retro games right in your browser:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my corner of GitHub! Feel free to connect or explore my repositories ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" width="100%" />
 
 </div>
