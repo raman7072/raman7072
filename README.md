@@ -11,7 +11,8 @@
 <br/>
 
 <!-- Status Pills -->
-[![Role](https://img.shields.io/badge/Focus-AI_Agents_%26_Data_Engineering-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/AI_Agents-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/Data_Engineering-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
 
 </div>
 
