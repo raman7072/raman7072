@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Status Pills -->
-[![Role](https://img.shields.io/badge/AI_Agents-B8E6FE?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
-[![Role](https://img.shields.io/badge/Data_Engineering-FFB86A?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/AI_Engineering-7BF1A8?style=flat-square&logo=github&logoColor=orange)](https://github.com/raman7072)
+[![Role](https://img.shields.io/badge/Data_Engineering-FFB86A?style=flat-square&logo=github&logoColor=green)](https://github.com/raman7072)
 
 </div>
 
