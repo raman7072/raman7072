@@ -12,9 +12,6 @@
 
 <!-- Status Pills -->
 [![Role](https://img.shields.io/badge/Focus-AI_Agents_%26_Data_Engineering-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
-[![GitHub](https://img.shields.io/badge/GitHub-raman7072-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raman7072)
-[![Location](https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=flat-square)](https://github.com/raman7072)
-[![Profile Views](https://komarev.com/ghpvc/?username=raman7072&style=flat-square&color=00F2FE&label=visitors)](https://github.com/raman7072)
 
 </div>
 
